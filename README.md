@@ -1,4 +1,4 @@
-# ⚔️ Kimetsu no Bunseki — AI PDF Chatbot (Demon Slayer theme)
+bunii chatbot-ai-pdf
 
 An AI-powered PDF chatbot: upload any PDF, ask questions, get AI summaries,
 key-point extraction, and answers with page-number citations. Built with
@@ -6,12 +6,12 @@ Streamlit + Google Gemini + FAISS, themed around Demon Slayer / Kimetsu no Yaiba
 
 ## Features
 
-- 📄 Upload any PDF and chat with it
-- 🗡️ Ask questions, get answers grounded in the document with page citations
-- 🌊 One-click full document summary
-- ⚡ One-click key-point extraction
-- 🎨 Custom Demon Slayer visual theme (haori checkerboard, flame gradients, forest-green sidebar)
-- ✅ Fully tested core logic (30 unit tests, offline/mocked)
+-  Upload any PDF and chat with it
+-  Ask questions, get answers grounded in the document with page citations
+-  One-click full document summary
+-  One-click key-point extraction
+-  Custom Demon Slayer visual theme (haori checkerboard, flame gradients, forest-green sidebar)
+-  Fully tested core logic (30 unit tests, offline/mocked)
 
 ## Tech Stack
 
